@@ -1,0 +1,19 @@
+{
+  "name": "api_chacaransluz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eversonevo/api_chacaransluz.git"
+  },
+  "author": "Evo Desenvolvimentos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eversonevo/api_chacaransluz/issues"
+  },
+  "homepage": "https://github.com/eversonevo/api_chacaransluz#readme"
+}
